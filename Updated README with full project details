@@ -1,0 +1,32 @@
+# Career Tracker App
+
+A web-based job application tracker designed to help users organize and visualize their job search with ease, structure, and emotional clarity.
+
+## 💻 Built With
+- Python
+- Streamlit (Frontend UI)
+- SQLAlchemy + SQLite (Database)
+- Matplotlib (Charts & Visualizations)
+- Custom CSS
+
+## 🔐 Features
+- User registration + secure password hashing
+- Resume upload and storage (PDF support)
+- Job application logging with:
+  - Company, position, status, date
+  - Color-coded status labels
+  - Active filtering + search
+- Dashboard overview with:
+  - Total applications
+  - Offer/rejection tracking
+  - Bar chart visualizations
+- Responsive 3-tab layout:
+  - Dashboard
+  - Application List
+  - Resume Upload
+
+## 🎯 Why I Built It
+As someone navigating a career transition, I wanted a tool that made the job hunt less overwhelming. I built this to organize my search, track my progress, and reclaim control over the process. My hope is that it helps others do the same—with clarity, structure, and a little peace of mind.
+
+## 🔗 Live Demo
+(https://career-tracker-md8mc2dn5w.replit.app/)
